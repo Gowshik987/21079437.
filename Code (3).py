@@ -73,4 +73,4 @@ text_box.axis('off')
 fig.tight_layout()
 
 # Saving the figure as PNG with dpi=300
-plt.savefig('21079437.png', dpi=300)
+plt.show()
