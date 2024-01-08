@@ -72,5 +72,5 @@ text_box.axis('off')
 # Adjusting the spacing between subplots
 fig.tight_layout()
 
-# Saving the figure as PNG with dpi=300
+
 plt.show()
